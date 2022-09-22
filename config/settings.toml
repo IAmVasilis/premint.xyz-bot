@@ -1,0 +1,10 @@
+
+[pre-minter]
+csrf-middleware-token = ""
+session_id = ""
+minting_wallet = ""
+
+[twitter]
+authorization = ""
+auth_token = ""
+ct0 = ""
