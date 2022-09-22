@@ -36,6 +36,10 @@ Modules | Twitter | Discord |  Wallet | Custom Input |
 <br>
 **A:** Pyarmor & Pyinstaller
 
+**Q:** What is 'Failed to check for handle status'?
+<br>
+**A**: It's a status code returned by the bot after trying to lookup the twitter user's handle, due to me not being accepted fast enough for a twitter developer api key I resorted into using a public api, downsides are other people can use them which quickens the API ratelimit. The solution would be waiting a few minutes before trying again.
+
 ## Contact Information:
 * Discord: Vasilis#5708 (1007816889268969532)
 
